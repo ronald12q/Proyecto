@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "st32H7+diH0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\Tienda_Escritorio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ronal\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\Ronal\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}

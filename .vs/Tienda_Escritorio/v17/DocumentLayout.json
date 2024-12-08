@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|c:\\users\\ronal\\documents\\tienda_escritorio\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|solutionrelative:registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\agregarproductoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|solutionrelative:agregarproductoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|c:\\users\\ronal\\documents\\tienda_escritorio\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|solutionrelative:registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|c:\\users\\ronal\\documents\\tienda_escritorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\editarproductoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|solutionrelative:editarproductoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\contrase\u00F1a_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|solutionrelative:contrase\u00F1a_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|c:\\users\\ronal\\documents\\tienda_escritorio\\contrase\u00F1a_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|solutionrelative:contrase\u00F1a_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|c:\\users\\ronal\\documents\\tienda_escritorio\\agregarproductoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|solutionrelative:agregarproductoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|c:\\users\\ronal\\documents\\tienda_escritorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|c:\\users\\ronal\\documents\\tienda_escritorio\\editarproductoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|solutionrelative:editarproductoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|c:\\users\\ronal\\documents\\tienda_escritorio\\data_bases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|solutionrelative:data_bases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\eliminarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|solutionrelative:eliminarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\clienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|solutionrelative:clienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|c:\\users\\ronal\\documents\\tienda_escritorio\\eliminarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|solutionrelative:eliminarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|c:\\users\\ronal\\documents\\tienda_escritorio\\clienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|solutionrelative:clienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|c:\\users\\ronal\\documents\\tienda_escritorio\\tienda_escritorio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|solutionrelative:tienda_escritorio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|c:\\users\\ronal\\documents\\tienda_escritorio\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A47307C5-65A7-4362-AFE6-D762ABD72C5D}|Tienda_Escritorio.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Tienda_Escritorio",
+              "DocumentMoniker": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\Tienda_Escritorio.csproj",
+              "RelativeDocumentMoniker": "Tienda_Escritorio.csproj",
+              "ToolTip": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\Tienda_Escritorio.csproj",
+              "RelativeToolTip": "Tienda_Escritorio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T04:13:02.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClienteForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\ClienteForm.cs",
+              "RelativeDocumentMoniker": "ClienteForm.cs",
+              "ToolTip": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\ClienteForm.cs",
+              "RelativeToolTip": "ClienteForm.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwFcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:31:38.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EliminarForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\EliminarForm.cs",
+              "RelativeDocumentMoniker": "EliminarForm.cs",
+              "ToolTip": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\EliminarForm.cs",
+              "RelativeToolTip": "EliminarForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:11:39.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EliminarForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\EliminarForm.cs",
+              "RelativeDocumentMoniker": "EliminarForm.cs",
+              "ToolTip": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\EliminarForm.cs [Design]",
+              "RelativeToolTip": "EliminarForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:10:36.179Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditarProductoForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\EditarProductoForm.cs",
+              "RelativeDocumentMoniker": "EditarProductoForm.cs",
+              "ToolTip": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\EditarProductoForm.cs",
+              "RelativeToolTip": "EditarProductoForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:34:51.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgregarProductoForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\AgregarProductoForm.cs",
+              "RelativeDocumentMoniker": "AgregarProductoForm.cs",
+              "ToolTip": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\AgregarProductoForm.cs",
+              "RelativeToolTip": "AgregarProductoForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:28:47.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditarProductoForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\EditarProductoForm.cs",
+              "RelativeDocumentMoniker": "EditarProductoForm.cs",
+              "ToolTip": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\EditarProductoForm.cs [Design]",
+              "RelativeToolTip": "EditarProductoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:25:13.428Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgregarProductoForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\AgregarProductoForm.cs",
+              "RelativeDocumentMoniker": "AgregarProductoForm.cs",
+              "ToolTip": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\AgregarProductoForm.cs [Design]",
+              "RelativeToolTip": "AgregarProductoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:24:51.508Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\AdminForm.cs",
+              "RelativeDocumentMoniker": "AdminForm.cs",
+              "ToolTip": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\AdminForm.cs",
+              "RelativeToolTip": "AdminForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:21:33.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\AdminForm.cs",
+              "RelativeDocumentMoniker": "AdminForm.cs",
+              "ToolTip": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\AdminForm.cs [Design]",
+              "RelativeToolTip": "AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:45:52.722Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClienteForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\ClienteForm.cs",
+              "RelativeDocumentMoniker": "ClienteForm.cs",
+              "ToolTip": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\ClienteForm.cs [Design]",
+              "RelativeToolTip": "ClienteForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:45:30.067Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Data_Bases.cs",
+              "DocumentMoniker": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\Data_Bases.cs",
+              "RelativeDocumentMoniker": "Data_Bases.cs",
+              "ToolTip": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\Data_Bases.cs",
+              "RelativeToolTip": "Data_Bases.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowHYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:35:51.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:19:43.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contrase\u00F1a_Form.cs",
+              "DocumentMoniker": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\Contrase\u00F1a_Form.cs",
+              "RelativeDocumentMoniker": "Contrase\u00F1a_Form.cs",
+              "ToolTip": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\Contrase\u00F1a_Form.cs",
+              "RelativeToolTip": "Contrase\u00F1a_Form.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:09:05.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contrase\u00F1a_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\Contrase\u00F1a_Form.cs",
+              "RelativeDocumentMoniker": "Contrase\u00F1a_Form.cs",
+              "ToolTip": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\Contrase\u00F1a_Form.cs [Design]",
+              "RelativeToolTip": "Contrase\u00F1a_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:05:09.824Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:55:02.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\Registro.cs",
+              "RelativeDocumentMoniker": "Registro.cs",
+              "ToolTip": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\Registro.cs",
+              "RelativeToolTip": "Registro.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:52:24.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\Registro.cs",
+              "RelativeDocumentMoniker": "Registro.cs",
+              "ToolTip": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\Registro.cs [Design]",
+              "RelativeToolTip": "Registro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:46:35.462Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Ronal\\Documents\\Tienda_Escritorio\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:54:06.349Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
